@@ -4,6 +4,16 @@ Stay up-to-date with the latest in AI, AGI, and AI-agent projects by subscribing
 
 This file is updated weekly with the newest AI-agent projects from the open-source community.
 
+
+## Weekly Update - 2025-06-23
+
+---
+
+### **Modus**
+
+Modus is an open source, serverless framework for building intelligent agents and APIs in Go or AssemblyScript (a TypeScript-like language). Modus is a runtime purpose-built for orchestrating autonomous AI agents that operate as first-class citizens in your stack.
+[GitHub Link](https://github.com/hypermodeinc/modus)
+
 ## Weekly Update - 2025-04-08
 
 ---
