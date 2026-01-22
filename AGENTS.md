@@ -399,6 +399,12 @@ LiveKit Agents is a real-time framework for building multimodal AI applications,
 
 ---
 
+### **Standards SDK**
+Standards SDK is a TypeScript toolkit for building AI agents on Hedera's decentralized network, featuring agent discovery via the Registry Broker API, HCS-10 protocol support for agent messaging, and blockchain-verified agent identities.  
+[GitHub Link](https://github.com/hashgraph-online/standards-sdk)
+
+---
+
 ## Archive
 
 For previous updates, please refer to our commit history or check the changelog.
