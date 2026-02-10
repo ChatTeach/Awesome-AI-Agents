@@ -8,6 +8,13 @@ This file is updated weekly with the newest AI-agent projects from the open-sour
 
 ---
 
+
+---
+
+### **GolemCore Bot**  
+AI agent framework for Java ? skill-based architecture with MCP support, tool calling, RAG, and Telegram integration. Built on Spring Boot and LangChain4j for enterprise-grade autonomous agents.  
+[GitHub Link](https://github.com/alexk-dev/golemcore-bot)
+
 ### **Supermemory**  
 An AI-powered second brain to help you organize and retrieve knowledge across sources like tweets, bookmarks, articles, and websites—built with memory-first AI agents for personal productivity.  
 [GitHub Link](https://github.com/supermemoryai/supermemory)
