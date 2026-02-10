@@ -26,6 +26,12 @@ A modular AI Agent platform for financial applications. Supports intelligent wor
 
 ---
 
+### **AgentFund**  
+Decentralized crowdfunding platform for AI agents with milestone-based escrow on Base blockchain. Enables autonomous agents to propose projects, receive community funding, and execute trustless deliveries.  
+[GitHub Link](https://github.com/RioBot-Grind/agentfund)
+
+---
+
 ### **MCP-Agent**  
 Composable agent framework tailored for Model Context Protocol (MCP). Enables multi-agent orchestration, modular tool integration, and reusable reasoning templates for LLM-powered workflows.  
 [GitHub Link](https://github.com/lastmile-ai/mcp-agent)
