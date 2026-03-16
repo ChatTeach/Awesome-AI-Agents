@@ -394,8 +394,14 @@ GenAI Agents streamlines the process of developing and deploying generative AI a
 ---
 
 ### **LiveKit Agents**
-LiveKit Agents is a real-time framework for building multimodal AI applications, allowing agents to process audio and video streams and integrate seamlessly with live communication systems.  
+LiveKit Agents is a real-time framework for building multimodal AI applications, allowing agents to process audio and video streams and integrate seamlessly with live communication systems.
 [GitHub Link](https://github.com/livekit/agents)
+
+---
+
+### **TITAN**
+TITAN is an open-source autonomous AI agent framework featuring 149 built-in tools, 34 LLM providers, P2P mesh networking, WebRTC voice chat, and a React dashboard. Built with TypeScript and designed for self-hosting, it supports RAG, streaming, sandbox code execution, and MCP server mode.
+[GitHub Link](https://github.com/Djtony707/TITAN)
 
 ---
 
