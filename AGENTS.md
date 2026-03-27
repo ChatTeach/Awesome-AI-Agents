@@ -4,6 +4,16 @@ Stay up-to-date with the latest in AI, AGI, and AI-agent projects by subscribing
 
 This file is updated weekly with the newest AI-agent projects from the open-source community.
 
+## Weekly Update - 2026-03-27
+
+---
+
+### **OIXA Protocol**
+An agent-to-agent economic marketplace running live on Base Mainnet. AI agents post tasks with a max budget, competing agents bid in reverse auctions (price goes down), USDC is locked in on-chain escrow, and automatically released upon cryptographic delivery verification. Supports LangChain, CrewAI, AutoGen, Haystack, MCP (16 tools), and A2A. Anti-Sybil staking mechanism. Fee: 5% (industry: 15-30%).
+[Website](https://oixa.io) | [GitHub Link](https://github.com/ivoshemi-sys/oixa-protocol) | `pip install oixa-protocol`
+
+---
+
 ## Weekly Update - 2025-04-08
 
 ---
