@@ -8,6 +8,12 @@ This file is updated weekly with the newest AI-agent projects from the open-sour
 
 ---
 
+### **RemoteOpenClaw**  
+An open marketplace for discovering, sharing, and distributing AI skills and personas built on OpenClaw. Enables developers to buy, sell, and share community-built AI agent capabilities.  
+[Website](https://remoteopenclaw.com)
+
+---
+
 ### **Supermemory**  
 An AI-powered second brain to help you organize and retrieve knowledge across sources like tweets, bookmarks, articles, and websites—built with memory-first AI agents for personal productivity.  
 [GitHub Link](https://github.com/supermemoryai/supermemory)
