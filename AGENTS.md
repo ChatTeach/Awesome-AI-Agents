@@ -8,6 +8,12 @@ This file is updated weekly with the newest AI-agent projects from the open-sour
 
 ---
 
+### **Asqav**
+Open-source SDK for AI agent governance. Provides tamper-evident audit trails, tool scanning, and enforcement policies to help teams build compliant and accountable AI agent systems.
+[GitHub Link](https://github.com/jagmarques/asqav-sdk)
+
+---
+
 ### **Supermemory**  
 An AI-powered second brain to help you organize and retrieve knowledge across sources like tweets, bookmarks, articles, and websites—built with memory-first AI agents for personal productivity.  
 [GitHub Link](https://github.com/supermemoryai/supermemory)
