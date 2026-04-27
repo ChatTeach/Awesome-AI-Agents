@@ -8,6 +8,12 @@ This file is updated weekly with the newest AI-agent projects from the open-sour
 
 ---
 
+### **KubeStellar Console**  
+A multi-cluster Kubernetes dashboard with AI-powered operations and a built-in MCP server (kc-agent) for AI assistant integration. Provides real-time observability, CNCF project integrations (Argo, Kyverno, Istio, and 20+ others), compliance dashboards, and intelligent operations across edge and cloud clusters. CNCF Sandbox project.  
+[GitHub Link](https://github.com/kubestellar/console)
+
+---
+
 ### **Supermemory**  
 An AI-powered second brain to help you organize and retrieve knowledge across sources like tweets, bookmarks, articles, and websites—built with memory-first AI agents for personal productivity.  
 [GitHub Link](https://github.com/supermemoryai/supermemory)
