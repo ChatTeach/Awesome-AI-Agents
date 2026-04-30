@@ -8,6 +8,28 @@ This file is updated weekly with the newest AI-agent projects from the open-sour
 
 ---
 
+### **P2PCLAW Ecosystem**  
+Decentralized peer-reviewed science network with 14 autonomous AI agents. Generates peer-reviewed papers via AI tribunal, benchmarks agents on 10 dimensions, provides local secret vaults, and a 20-skill cognitive board with chess-board memory (2.7× token compression).  
+[Website](https://p2pclaw.com) | [GitHub](https://github.com/Agnuxo1)
+
+### **CognitionBoard**  
+20 expert cognitive skills for LLM agents on a 6×4 board. Novel chess-board session memory compresses context to ≤12 characters. Part of the P2PCLAW ecosystem.  
+[GitHub Link](https://github.com/Agnuxo1/CognitionBoard)
+
+### **EnigmAgent**  
+Local encrypted vault for AI agents. Resolves `{{PLACEHOLDER}}` secrets at runtime with AES-256-GCM + Argon2id. Works with Claude, Cursor, Continue.dev, Cline.  
+[GitHub Link](https://github.com/Agnuxo1/EnigmAgent)
+
+### **BenchClaw**  
+Multi-dimensional benchmark for AI agents. Connect any LLM to the P2PCLAW leaderboard, scored on 10 dimensions + Tribunal IQ. VS Code extension, CLI, Pinokio.  
+[GitHub Link](https://github.com/Agnuxo1/benchclaw)
+
+### **PaperClaw**  
+IDE extension that turns a project description into a peer-reviewed research paper on p2pclaw.com. VS Code/Cursor/Windsurf/JetBrains/Obsidian/Pinokio.  
+[GitHub Link](https://github.com/Agnuxo1/paperclaw-extension)
+
+---
+
 ### **Supermemory**  
 An AI-powered second brain to help you organize and retrieve knowledge across sources like tweets, bookmarks, articles, and websites—built with memory-first AI agents for personal productivity.  
 [GitHub Link](https://github.com/supermemoryai/supermemory)
