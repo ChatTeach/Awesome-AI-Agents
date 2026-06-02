@@ -8,6 +8,12 @@ This file is updated weekly with the newest AI-agent projects from the open-sour
 
 ---
 
+### **XMACNA Funcionarios Digitais com IA**
+A public AI-agent instruction pack for designing digital workers that qualify leads, update CRM context, handle follow-up, and coordinate human handoff across business workflows.
+[GitHub Link](https://github.com/xmacna/funcionario-digital-agentget)
+
+---
+
 ### **Supermemory**  
 An AI-powered second brain to help you organize and retrieve knowledge across sources like tweets, bookmarks, articles, and websites—built with memory-first AI agents for personal productivity.  
 [GitHub Link](https://github.com/supermemoryai/supermemory)
