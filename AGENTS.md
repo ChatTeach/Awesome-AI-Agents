@@ -399,6 +399,13 @@ LiveKit Agents is a real-time framework for building multimodal AI applications,
 
 ---
 
+---
+
+### **TWZRD Agent Intel**
+TWZRD Agent Intel is a trust scoring MCP server for AI agent wallets. It provides `score_agent(wallet)`, `preflight_check(wallet)`, and `get_trust_receipt(wallet)` tools — enabling agents to verify wallet identity and safety before executing x402 micropayments and on-chain transactions.  
+[Website](https://intel.twzrd.xyz) | MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
+
 ## Archive
 
 For previous updates, please refer to our commit history or check the changelog.
