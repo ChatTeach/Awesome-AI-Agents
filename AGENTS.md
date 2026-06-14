@@ -159,6 +159,12 @@ LangManus is an open-source automation framework that equips AI agents with a ro
 
 ---
 
+### **LightAgent**
+LightAgent is a lightweight Python framework for building tool-using AI agents with memory, MCP/SSE integration, reusable Skills, deterministic LightFlow workflows, tracing, and LightSwarm multi-agent collaboration.
+[GitHub Link](https://github.com/wanxingai/LightAgent)
+
+---
+
 ### **Local Deep Researcher**  
 Local Deep Researcher provides a fully local web research assistant that leverages locally hosted LLMs to perform in-depth, privacy-preserving research and generate detailed summaries.  
 [GitHub Link](https://github.com/langchain-ai/local-deep-researcher)
