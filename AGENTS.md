@@ -399,6 +399,16 @@ LiveKit Agents is a real-time framework for building multimodal AI applications,
 
 ---
 
+## Weekly Update - 2026-06-17
+
+---
+
+### **NarraNexus**
+NarraNexus is a ready-to-run AI agent team workspace. A team of agents that already remember, collaborate, and use tools from day one — with persistent memory across sessions, multi-agent collaboration (PM, developer, deployment, research), MCP tool integrations, and Matrix-based communication.
+[GitHub Link](https://github.com/NetMindAI-Open/NarraNexus)
+
+---
+
 ## Archive
 
 For previous updates, please refer to our commit history or check the changelog.
