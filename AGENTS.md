@@ -399,6 +399,12 @@ LiveKit Agents is a real-time framework for building multimodal AI applications,
 
 ---
 
+### **NotFair**
+Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data through the Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to perform audits, keyword research, meta tag optimization, schema markup, and paid-ads management autonomously.  
+[GitHub Link](https://github.com/nowork-studio/NotFair)
+
+---
+
 ## Archive
 
 For previous updates, please refer to our commit history or check the changelog.
