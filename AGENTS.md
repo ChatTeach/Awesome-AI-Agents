@@ -87,6 +87,12 @@ A comprehensive platform designed to build, evaluate, and monitor AI agents. Age
 
 ---
 
+### **ax**
+A local-first evidence graph for AI coding agents. It indexes local transcripts from Claude Code, Codex, Cursor, OpenCode, and Pi, then exposes read-only MCP queries for sessions, tool calls, skills, and cost.
+[GitHub Link](https://github.com/Necmttn/ax)
+
+---
+
 ### **RDAgent**  
 Developed by Microsoft, RDAgent is an intelligent framework aimed at automating remote desktop or data tasks through AI-driven processes. It helps streamline complex operations, reducing manual intervention with smart automation.  
 [GitHub Link](https://github.com/microsoft/RD-Agent)
