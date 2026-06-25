@@ -399,6 +399,12 @@ LiveKit Agents is a real-time framework for building multimodal AI applications,
 
 ---
 
+### **rust-norion**
+rust-norion is a Rust prototype for AI runtime-control boundaries, including routing, memory gates, evidence checks, rollback, and audit traces around inference and agent workflows.
+[GitHub Link](https://github.com/yanghao1143/rust-norion)
+
+---
+
 ## Archive
 
 For previous updates, please refer to our commit history or check the changelog.
