@@ -14,6 +14,12 @@ An AI-powered second brain to help you organize and retrieve knowledge across so
 
 ---
 
+### **Tree Ring Memory**
+A local-first memory framework for coding agents, designed to preserve durable project decisions, privacy-safe recall, evidence-backed promotion, and lifecycle-aware forgetting without storing full transcript dumps.
+[GitHub Link](https://github.com/TerminallyLazy/Tree-Ring-Memory)
+
+---
+
 ### **GenAI Agents**  
 A powerful collection of templates and examples to build generative AI agents using LangChain, LangGraph, and LLM frameworks. Helps you deploy intelligent agents that can reason, retrieve, and take actions.  
 [GitHub Link](https://github.com/NirDiamant/GenAI_Agents)
