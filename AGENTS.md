@@ -399,6 +399,18 @@ LiveKit Agents is a real-time framework for building multimodal AI applications,
 
 ---
 
+### **Agon**
+Treats prompt engineering as engineering, not art, to minimize human time while expecting maximum output. Smallest prompt footprint among cross-disciplinary autoresearch systems (18 roles, 230.6 KiB), tested across 10+ research fields without modification.
+[GitHub Link](https://github.com/AutoResearch-Factory/Agon)
+
+---
+
+### **AutoNumerics**
+Give it a PDE problem in plain text and it writes a classical numerical solver from scratch, picks the right discretization, runs convergence checks, and reports error metrics. Six orders of magnitude more accurate than neural baselines on CodePDE.
+[GitHub Link](https://github.com/Daviddjddu/Autonumerics)
+
+---
+
 ## Archive
 
 For previous updates, please refer to our commit history or check the changelog.
