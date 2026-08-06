@@ -8,6 +8,12 @@ This file is updated weekly with the newest AI-agent projects from the open-sour
 
 ---
 
+### **Orkas**
+An open-source, local-first desktop AI workforce. A Commander turns goals into executable plans and coordinates specialist agents through one chat.
+[GitHub Link](https://github.com/Orkas-AI/Orkas)
+
+---
+
 ### **Supermemory**  
 An AI-powered second brain to help you organize and retrieve knowledge across sources like tweets, bookmarks, articles, and websites—built with memory-first AI agents for personal productivity.  
 [GitHub Link](https://github.com/supermemoryai/supermemory)
