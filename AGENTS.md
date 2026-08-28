@@ -399,6 +399,12 @@ LiveKit Agents is a real-time framework for building multimodal AI applications,
 
 ---
 
+### **SandBase CLI**
+SandBase CLI is an open-source command-line tool and MCP bridge that provides a unified interface to access 2,000+ AI models for agent workflows.
+[GitHub Link](https://github.com/sandbaseai/cli)
+
+---
+
 ## Archive
 
 For previous updates, please refer to our commit history or check the changelog.
