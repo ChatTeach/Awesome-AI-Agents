@@ -8,6 +8,12 @@ This file is updated weekly with the newest AI-agent projects from the open-sour
 
 ---
 
+### **ContextStream MCP Server**
+Open-source MCP server for shared project context across Cursor, Claude Code, Codex, and Grok. Hosted endpoint also available. Intelligence isn’t the bottleneck. Context is.
+[GitHub Link](https://github.com/contextstream/mcp-server) · [Site](https://contextstream.io) · [MCP](https://mcp.contextstream.io/mcp)
+
+---
+
 ### **Supermemory**  
 An AI-powered second brain to help you organize and retrieve knowledge across sources like tweets, bookmarks, articles, and websites—built with memory-first AI agents for personal productivity.  
 [GitHub Link](https://github.com/supermemoryai/supermemory)
