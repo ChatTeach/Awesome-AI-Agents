@@ -8,6 +8,12 @@ This file is updated weekly with the newest AI-agent projects from the open-sour
 
 ---
 
+### **Solgrok**  
+Autonomous Solana creator-ops AI agent that runs 24/7 promo and creator-fee ops for $SGROK on Bags.fm.  
+[GitHub Link](https://github.com/LMajster/sgrok)
+
+---
+
 ### **Supermemory**  
 An AI-powered second brain to help you organize and retrieve knowledge across sources like tweets, bookmarks, articles, and websites—built with memory-first AI agents for personal productivity.  
 [GitHub Link](https://github.com/supermemoryai/supermemory)
