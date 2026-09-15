@@ -12,6 +12,7 @@ Welcome to the ultimate collection of the latest open-source AI Agent projects. 
 - 🔍 **[AI Agent Projects (AGENTS.md)](AGENTS.md)** – Explore the latest AI agents.
 - 🤝 **[Contributing](CONTRIBUTING.md)** – Guidelines to contribute your favorite projects.
 - 📬 **[Newsletter](https://manuagi.beehiiv.com/subscribe)** – Stay Updated!
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## 📬 Newsletter – Stay Updated!
 
