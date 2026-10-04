@@ -8,6 +8,13 @@ This file is updated weekly with the newest AI-agent projects from the open-sour
 
 ---
 
+### **Aident Loadout (aident-skill)**  
+MIT skill and remote MCP setup that connects Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ Skills through one reusable Loadout ([aident.ai](https://aident.ai)).  
+[GitHub Link](https://github.com/Aident-AI/aident-skill)
+
+---
+
+
 ### **Supermemory**  
 An AI-powered second brain to help you organize and retrieve knowledge across sources like tweets, bookmarks, articles, and websites—built with memory-first AI agents for personal productivity.  
 [GitHub Link](https://github.com/supermemoryai/supermemory)
