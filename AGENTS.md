@@ -399,6 +399,10 @@ LiveKit Agents is a real-time framework for building multimodal AI applications,
 
 ---
 
+### **Tale**
+Tale is an open-source workspace where teams assign coding tasks to configured AI agents running in persistent sandboxes, then review reports and delivered files.
+[GitHub Link](https://github.com/tale-project/tale)
+
 ## Archive
 
 For previous updates, please refer to our commit history or check the changelog.
