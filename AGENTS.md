@@ -4,6 +4,14 @@ Stay up-to-date with the latest in AI, AGI, and AI-agent projects by subscribing
 
 This file is updated weekly with the newest AI-agent projects from the open-source community.
 
+## Latest additions
+
+- **Agent Payment Node**  
+  Local CLI and stdio MCP payment tools for AI agents with owner-set limits, status and receipts; macOS Apple Silicon only.  
+  [GitHub Link](https://github.com/nuanu-ai/agent-payment-node)
+
+---
+
 ## Weekly Update - 2025-04-08
 
 ---
