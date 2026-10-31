@@ -399,6 +399,12 @@ LiveKit Agents is a real-time framework for building multimodal AI applications,
 
 ---
 
+### **Signbee**
+Signbee provides document signing infrastructure for AI agents via Model Context Protocol (`signbee-mcp`), agent skill ([signbee/skill](https://github.com/signbee/skill)), and REST API ([signb.ee](https://signb.ee)). It enables autonomous agents to send Markdown or PDF contracts for two-party e-signing with SHA-256 tamper-evident audit certificates.  
+[GitHub Link](https://github.com/signbee/mcp)
+
+---
+
 ## Archive
 
 For previous updates, please refer to our commit history or check the changelog.
