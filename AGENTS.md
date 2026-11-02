@@ -399,6 +399,12 @@ LiveKit Agents is a real-time framework for building multimodal AI applications,
 
 ---
 
+### **Ponder**
+Ponder is a convergent deliberation loop and coverage gate for coding agents. It orchestrates four distinct analytical perspectives (skeptic, builder, dreamer, empath) against an append-only decision ledger to prevent circular refinement and enforce 100% unit coverage before work is marked complete.  
+[GitHub Link](https://github.com/Quinnod345/ponder)
+
+---
+
 ## Archive
 
 For previous updates, please refer to our commit history or check the changelog.
