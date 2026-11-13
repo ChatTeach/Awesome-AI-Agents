@@ -8,6 +8,12 @@ This file is updated weekly with the newest AI-agent projects from the open-sour
 
 ---
 
+### **API-Supp WhatsApp MCP**  
+MIT local MCP client for API-Supp: WhatsApp messaging, files, voice notes and media downloads (requires the paid API-Supp service, $7.50/number/month).  
+[GitHub Link](https://github.com/yehudashtein/wa-bridge-mcp)
+
+---
+
 ### **Supermemory**  
 An AI-powered second brain to help you organize and retrieve knowledge across sources like tweets, bookmarks, articles, and websites—built with memory-first AI agents for personal productivity.  
 [GitHub Link](https://github.com/supermemoryai/supermemory)
